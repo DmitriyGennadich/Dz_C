@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\учеба\\Знакомство с языком C#\\Seminar1\\Dz_1_max\\Dz_1.csproj": {}
+    "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\учеба\\Знакомство с языком C#\\Seminar1\\Dz_1_maxMin\\Dz_1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\учеба\\Знакомство с языком C#\\Seminar1\\Dz_1_max\\Dz_1.csproj": {
+    "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\учеба\\Знакомство с языком C#\\Seminar1\\Dz_1_maxMin\\Dz_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\учеба\\Знакомство с языком C#\\Seminar1\\Dz_1_max\\Dz_1.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\учеба\\Знакомство с языком C#\\Seminar1\\Dz_1_maxMin\\Dz_1.csproj",
         "projectName": "Dz_1",
-        "projectPath": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\учеба\\Знакомство с языком C#\\Seminar1\\Dz_1_max\\Dz_1.csproj",
+        "projectPath": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\учеба\\Знакомство с языком C#\\Seminar1\\Dz_1_maxMin\\Dz_1.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\учеба\\Знакомство с языком C#\\Seminar1\\Dz_1_max\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\учеба\\Знакомство с языком C#\\Seminar1\\Dz_1_maxMin\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config"

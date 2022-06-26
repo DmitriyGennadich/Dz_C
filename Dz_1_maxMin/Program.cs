@@ -9,28 +9,44 @@
     int b = 7;
 
     int max = a;
+    int min = a;
     if (a > max) max = a;
     if (b > max) max = b;
+    if (a < max) max = b;
+
     Console.Write("max = ");
-    Console.WriteLine(max);
+    Console.Write(max);
+    Console.Write(" min = ");
+    Console.WriteLine(min);
 }
     {
         int a = 2;
         int b = 10;
 
         int max = a;
+        int min = a;
         if (a > max) max = a;
         if (b > max) max = b;
+        if (a < max) max = b;
+
         Console.Write("max = ");
-        Console.WriteLine(max);
+        Console.Write(max);
+        Console.Write(" min = ");
+        Console.WriteLine(min);
+
     }
         {
-             int a = -9;
+            int a = -9;
             int b = -3;
 
             int max = a;
+            int min = a;
             if (a > max) max = a;
             if (b > max) max = b;
+            if (a < max) max = b;
+
             Console.Write("max = ");
-            Console.WriteLine(max);
+            Console.Write(max);
+            Console.Write(" min = ");
+            Console.WriteLine(min);
         }
