@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\Рабочий стол\учеба\Знакомство с языком C#\Seminar1\Dz_3_Chet\bin\Debug\net6.0\Dz_3_Chet.exe
+C:\Users\Asus\OneDrive\Рабочий стол\учеба\Знакомство с языком C#\Seminar1\Dz_3_Chet\bin\Debug\net6.0\Dz_3_Chet.deps.json
+C:\Users\Asus\OneDrive\Рабочий стол\учеба\Знакомство с языком C#\Seminar1\Dz_3_Chet\bin\Debug\net6.0\Dz_3_Chet.runtimeconfig.json
+C:\Users\Asus\OneDrive\Рабочий стол\учеба\Знакомство с языком C#\Seminar1\Dz_3_Chet\bin\Debug\net6.0\Dz_3_Chet.dll
+C:\Users\Asus\OneDrive\Рабочий стол\учеба\Знакомство с языком C#\Seminar1\Dz_3_Chet\bin\Debug\net6.0\Dz_3_Chet.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\учеба\Знакомство с языком C#\Seminar1\Dz_3_Chet\obj\Debug\net6.0\Dz_3_Chet.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Рабочий стол\учеба\Знакомство с языком C#\Seminar1\Dz_3_Chet\obj\Debug\net6.0\Dz_3_Chet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Рабочий стол\учеба\Знакомство с языком C#\Seminar1\Dz_3_Chet\obj\Debug\net6.0\Dz_3_Chet.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Рабочий стол\учеба\Знакомство с языком C#\Seminar1\Dz_3_Chet\obj\Debug\net6.0\Dz_3_Chet.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Рабочий стол\учеба\Знакомство с языком C#\Seminar1\Dz_3_Chet\obj\Debug\net6.0\Dz_3_Chet.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Рабочий стол\учеба\Знакомство с языком C#\Seminar1\Dz_3_Chet\obj\Debug\net6.0\Dz_3_Chet.dll
+C:\Users\Asus\OneDrive\Рабочий стол\учеба\Знакомство с языком C#\Seminar1\Dz_3_Chet\obj\Debug\net6.0\refint\Dz_3_Chet.dll
+C:\Users\Asus\OneDrive\Рабочий стол\учеба\Знакомство с языком C#\Seminar1\Dz_3_Chet\obj\Debug\net6.0\Dz_3_Chet.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\учеба\Знакомство с языком C#\Seminar1\Dz_3_Chet\obj\Debug\net6.0\Dz_3_Chet.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Рабочий стол\учеба\Знакомство с языком C#\Seminar1\Dz_3_Chet\obj\Debug\net6.0\ref\Dz_3_Chet.dll
