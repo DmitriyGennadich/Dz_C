@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\Рабочий стол\учеба\Знакомство с языком C#\Seminar1\Dz_4_inerval\bin\Debug\net6.0\Dz_4_inerval.exe
+C:\Users\Asus\OneDrive\Рабочий стол\учеба\Знакомство с языком C#\Seminar1\Dz_4_inerval\bin\Debug\net6.0\Dz_4_inerval.deps.json
+C:\Users\Asus\OneDrive\Рабочий стол\учеба\Знакомство с языком C#\Seminar1\Dz_4_inerval\bin\Debug\net6.0\Dz_4_inerval.runtimeconfig.json
+C:\Users\Asus\OneDrive\Рабочий стол\учеба\Знакомство с языком C#\Seminar1\Dz_4_inerval\bin\Debug\net6.0\Dz_4_inerval.dll
+C:\Users\Asus\OneDrive\Рабочий стол\учеба\Знакомство с языком C#\Seminar1\Dz_4_inerval\bin\Debug\net6.0\Dz_4_inerval.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\учеба\Знакомство с языком C#\Seminar1\Dz_4_inerval\obj\Debug\net6.0\Dz_4_inerval.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Рабочий стол\учеба\Знакомство с языком C#\Seminar1\Dz_4_inerval\obj\Debug\net6.0\Dz_4_inerval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Рабочий стол\учеба\Знакомство с языком C#\Seminar1\Dz_4_inerval\obj\Debug\net6.0\Dz_4_inerval.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Рабочий стол\учеба\Знакомство с языком C#\Seminar1\Dz_4_inerval\obj\Debug\net6.0\Dz_4_inerval.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Рабочий стол\учеба\Знакомство с языком C#\Seminar1\Dz_4_inerval\obj\Debug\net6.0\Dz_4_inerval.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Рабочий стол\учеба\Знакомство с языком C#\Seminar1\Dz_4_inerval\obj\Debug\net6.0\Dz_4_inerval.dll
+C:\Users\Asus\OneDrive\Рабочий стол\учеба\Знакомство с языком C#\Seminar1\Dz_4_inerval\obj\Debug\net6.0\refint\Dz_4_inerval.dll
+C:\Users\Asus\OneDrive\Рабочий стол\учеба\Знакомство с языком C#\Seminar1\Dz_4_inerval\obj\Debug\net6.0\Dz_4_inerval.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\учеба\Знакомство с языком C#\Seminar1\Dz_4_inerval\obj\Debug\net6.0\Dz_4_inerval.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Рабочий стол\учеба\Знакомство с языком C#\Seminar1\Dz_4_inerval\obj\Debug\net6.0\ref\Dz_4_inerval.dll
