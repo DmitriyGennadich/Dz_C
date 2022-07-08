@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\Рабочий стол\учеба\Знакомство с языком C#\Seminar3\Dz_1_Polindrom\obj\Debug\net6.0\Dz_1_Polindrom.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Рабочий стол\учеба\Знакомство с языком C#\Seminar3\Dz_1_Polindrom\obj\Debug\net6.0\Dz_1_Polindrom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Рабочий стол\учеба\Знакомство с языком C#\Seminar3\Dz_1_Polindrom\obj\Debug\net6.0\Dz_1_Polindrom.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Рабочий стол\учеба\Знакомство с языком C#\Seminar3\Dz_1_Polindrom\obj\Debug\net6.0\Dz_1_Polindrom.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Рабочий стол\учеба\Знакомство с языком C#\Seminar3\Dz_1_Polindrom\obj\Debug\net6.0\Dz_1_Polindrom.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Рабочий стол\учеба\Знакомство с языком C#\Seminar3\Dz_1_Polindrom\bin\Debug\net6.0\Dz_1_Polindrom.exe
+C:\Users\Asus\OneDrive\Рабочий стол\учеба\Знакомство с языком C#\Seminar3\Dz_1_Polindrom\bin\Debug\net6.0\Dz_1_Polindrom.deps.json
+C:\Users\Asus\OneDrive\Рабочий стол\учеба\Знакомство с языком C#\Seminar3\Dz_1_Polindrom\bin\Debug\net6.0\Dz_1_Polindrom.runtimeconfig.json
+C:\Users\Asus\OneDrive\Рабочий стол\учеба\Знакомство с языком C#\Seminar3\Dz_1_Polindrom\bin\Debug\net6.0\Dz_1_Polindrom.dll
+C:\Users\Asus\OneDrive\Рабочий стол\учеба\Знакомство с языком C#\Seminar3\Dz_1_Polindrom\bin\Debug\net6.0\Dz_1_Polindrom.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\учеба\Знакомство с языком C#\Seminar3\Dz_1_Polindrom\obj\Debug\net6.0\Dz_1_Polindrom.dll
+C:\Users\Asus\OneDrive\Рабочий стол\учеба\Знакомство с языком C#\Seminar3\Dz_1_Polindrom\obj\Debug\net6.0\refint\Dz_1_Polindrom.dll
+C:\Users\Asus\OneDrive\Рабочий стол\учеба\Знакомство с языком C#\Seminar3\Dz_1_Polindrom\obj\Debug\net6.0\Dz_1_Polindrom.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\учеба\Знакомство с языком C#\Seminar3\Dz_1_Polindrom\obj\Debug\net6.0\Dz_1_Polindrom.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Рабочий стол\учеба\Знакомство с языком C#\Seminar3\Dz_1_Polindrom\obj\Debug\net6.0\ref\Dz_1_Polindrom.dll

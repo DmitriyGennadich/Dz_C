@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Dz_2_3D/1.0.0": {
+        "runtime": {
+          "Dz_2_3D.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dz_2_3D/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
